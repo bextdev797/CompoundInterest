@@ -17,6 +17,4 @@ Credits to StudyTonight's Guide: <a href="https://www.studytonight.com/java-prog
 <a href="https://github.com/branang295/CompoundInterest/raw/main/assets/CompoundInterestV2.aia">Download CompoundInterest.aia Now</a>
 **100% Safe and Simple Extension** **Warning: Don't build APK use Companion might not working for all extensions i post in Github.**
 
-<a href="https://sites.google.com/view/ai2-ci-helper">Helper Website for CompoundInterest Extension</a>
-
 Now you can't use Oseamiya's Interests and EMI Calculator for Compound Interest use mine it has more functionalities in v1 & v2.
