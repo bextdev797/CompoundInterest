@@ -12,7 +12,7 @@ Blocks:
 
 Credits to StudyTonight's Guide: <a href="https://www.studytonight.com/java-programs/java-program-to-calculate-compound-interest">Guide</a>
 
-<a href="https://github.com/branang295/CompoundInterest/raw/main/out/com.brandonang.compoundinterest.aix">Download com.brandonang.compoundinterest.aix Now</a>
+<a href="https://github.com/branang295/CompoundInterest/releases/download/2/com.brandonang.compoundinterest.aix">Download com.brandonang.compoundinterest.aix Now</a>
 
 <a href="https://github.com/branang295/CompoundInterest/raw/main/assets/CompoundInterestV2.aia">Download CompoundInterest.aia Now</a>
 **100% Safe and Simple Extension** **Warning: Don't build APK use Companion might not working for all extensions i post in Github.**
